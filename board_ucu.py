@@ -1,5 +1,4 @@
 '''https://github.com/be-unkind/board_ucu'''
-import doctest
 def first_check(board: list) -> bool:
     '''
     Every coloured cell in row must not contain the same values.
@@ -147,5 +146,3 @@ def validate_board(board: list) -> bool:
         return False
     else:
         return True
-
-doctest.testmod()
