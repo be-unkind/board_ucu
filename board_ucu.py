@@ -1,4 +1,4 @@
-'''module docstring'''
+'''https://github.com/be-unkind/board_ucu'''
 import doctest
 def first_check(board: list) -> bool:
     '''
