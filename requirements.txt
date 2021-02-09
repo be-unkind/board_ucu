@@ -1,0 +1,1 @@
+Code for checking combination on the board for the 'Puzzle' game.
